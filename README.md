@@ -31,5 +31,5 @@
  本来这主题都要被我放弃了!泽泽说要修复，所以才又有了
  此版本为泽泽修复版
  
- ![修复说明页](https://qqdie.com/archives/forx-typecho-themes.html)
+ [修复说明页](https://qqdie.com/archives/forx-typecho-themes.html)
  
